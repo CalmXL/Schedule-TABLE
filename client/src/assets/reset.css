@@ -1,0 +1,28 @@
+body,
+p,
+h1 {
+  margin: 0;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+a {
+  text-decoration: none;
+  color: #666;
+}
+
+button {
+  outline: none;
+  border: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+i {
+  font-style: normal;
+}
